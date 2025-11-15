@@ -58,7 +58,7 @@ Atlantean offers commercial licences in the following forms:
 
 • Field-of-Use Licences
 For customers requiring SYS6/7 exclusively or non-exclusively in a defined business domain. 
-The following exclusive licenses are not available:
+The following exclusive field of use licenses are not available:
 - Home Healthcare
 - Automated Vending of Restricted Products
 - Sports Gaming
@@ -78,3 +78,13 @@ For extending SYS6/7 with bespoke modules that rely on the core framework.
 - Attribution of SYS6/7 where applicable
 
 To inquire about licensing, contact: 📧 inquiries /at/ atlantean.ca
+
+# Appendix
+Altantean is in possession of archives going back to 2017 what can be used to demonstrate ownership.
+- 2017  TCFC selected deployment (z.php and libs)
+- 2017  Full archive
+- 2020  Full archive with version control back to 2017
+- 2021  Full snapshot
+- 2024  Full archive with version control back to 2021
+
+
