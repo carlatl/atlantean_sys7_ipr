@@ -11,26 +11,31 @@ Truro, Nova Scotia, Canada
 
 # Overview
 SYS6/7 is a proprietary Enterprise Resource Planning (ERP) framework created, owned, and maintained by Atlantean Technical Solutions Limited.
-Development began in 2015, with production use and continuous improvement underway since 2016.
+Development began in 2015, with production use and continuous improvement underway since 2016. Its aims are to get your system (or startup) 
+from the drawing board and into production in days rather than weeks. Its philosophy is to keep things simple yet powerful, so that even 
+a junior tech can be productive right away. 
 
-# SYS6/7 provides:
+# SYS6/7 provides the following enterprise features:
 
-- RDBM table templates
+- RDBMS table templates
 - DDL and view/form template generators
-- Core database access layer
+- Minimal class structure
+- Intuitive logic flows
+- FAST!
 - Roles and access controls
 - SQL and JS injection controls
-- Clean architecture reacy for your extension (just add a module directory and you're all set)
+- Clean Extensible module architecture (just add a module directory and you're all set)
 - No ORM, just SQL and resultsets
+- No routing - just call the subsystem, class and service you want
 - No HTML templates (PHP is already a PHP template engine)
 - Form and list JSON configuration
 - Table sorting and pagination
 - Validation framework
 - Permissions and session management
 - Auditing and logging infrastructure
-- Workflow tools
-- Extensible module architecture
 - This repository exists to document the ownership, authorship, and licensing structure of the SYS6/7 platform.
+- People, places, things and Operations straight out of the box
+- Optional prebuilt modules
 
 # Copyright and Intellectual Property
 All SYS6/7 source code, schema, architecture, and documentation are the sole intellectual property (IP) of Atlantean Technical Solutions Limited.
@@ -52,7 +57,12 @@ SYS6/7 is not open-source.
 Atlantean offers commercial licences in the following forms:
 
 • Field-of-Use Licences
-For customers requiring SYS6/7 exclusively or non-exclusively in a defined business domain.
+For customers requiring SYS6/7 exclusively or non-exclusively in a defined business domain. 
+The following exclusive licenses are not available:
+- Home Healthcare
+- Automated Vending of Restricted Products
+- Sports Gaming
+- Dating
 
 • Deployment-Based Licences
 For customers operating SYS6/7-powered products in multiple environments or locations.
